@@ -32,3 +32,6 @@ Run the app as ### ` Run as Spring Boot Application`
 
 
 
+
+
+![Screenshot 2023-08-30 003244](https://github.com/aghodke24/Khana-Ghar-Tak/assets/93040950/ca43a6a0-0e97-4591-b3a2-d79f25d827d9)
