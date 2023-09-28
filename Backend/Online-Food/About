@@ -1,0 +1,3 @@
+Khaana Ghar Tak is a food delivery app which allows users to order listed food items from a restaurant. This web application has a user end for registering as user,ordering food, checking progress of order.
+Admin end for adding new food items,new delivery person, assigning deliveryperson. A deliveryperson end through which the deliveryperson can change the status of order and get assigned with orders to deliver.
+The application provides a seamless experience for customers to explore menus, place orders.
